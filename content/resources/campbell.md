@@ -5,6 +5,8 @@ description: "A paper written by a student on barriers to USGS scientists\u2019 
 file: /courses/11-375-role-of-science-and-scientists-in-collaborative-approaches-to-environmental-policymaking-spring-2006/caac4b2f96eb3276b195684b0cea8c0c_campbell.pdf
 file_size: 279455
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
